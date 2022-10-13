@@ -4,7 +4,7 @@
   2. programming
   3. yugioh
   4. video games and everything around tech stuff
-- 🌱 I’m currently learning Typescropt, python and mongodb
+- 🌱 I’m currently learning Typescript, Python and Mongodb
 - 📫 How to reach me: send an email on jacopo.crocetta98@gmail.com
 
 <!---
