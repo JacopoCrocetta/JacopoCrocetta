@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacopocrocetta&label=Profile%20views&color=0e75b6&style=flat" alt="jacopocrocetta" /> </p>
 
-- 🔭 I’m currently working on [TournamentManagment](https://github.com/JacopoCrocetta/TournamentManagment)
+- 🔭 I’m currently working on [TournamentManagment](https://github.com/JacopoCrocetta/TournamentManagment) and [ByteForge](https://github.com/JacopoCrocetta/ByteForge)
 
-- 🤝 I’m looking for help with [TournamentManagment](https://github.com/JacopoCrocetta/TournamentManagment)
+- 🤝 I’m looking for help with [TournamentManagment](https://github.com/JacopoCrocetta/TournamentManagment) and [ByteForge](https://github.com/JacopoCrocetta/ByteForge)
 
 - 👨‍💻 All of my projects are available at [https://github.com/JacopoCrocetta/](https://github.com/JacopoCrocetta/)
 
